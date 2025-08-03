@@ -5,12 +5,14 @@
 ## AWS S3 Static Website Hosting Guide
 
 ## 1. Create S3 Bucket
+```
 Go to AWS Management Console → S3.
 Click Create bucket.
 Enter a unique name (e.g., mybucketofawspriyanka).
 Choose region (e.g., us-east-1).
 Disable "Block all public access" under permissions.
 Click Create bucket.
+```
 
 ## 2. Upload Image
 Open the newly created bucket.
